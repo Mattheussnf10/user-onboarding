@@ -1,0 +1,16 @@
+{
+  "name": "user-onboarding",
+  "version": "1.0.0",
+  "description": "user-onboarding",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "author": "mattheus soares",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
